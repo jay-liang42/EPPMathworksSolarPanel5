@@ -21,3 +21,15 @@ where
 - Download the Optimization Toolbox from MATLAB. It is required to run some of the commands in the script.
 - Open and run the live script in MATLAB. The results will appear after the script is done running.
 
+## Expected Results
+
+The script generates a 3D surface plot visualizing the energy output function E(,r) over the constrained domain θ ∈ [0°, 90°] and r ∈ [0.5, 4].
+
+The program displays the numerical value for optimal tilt angle, optimal aspect ratio, and the maximum energy output. 
+
+- Expected 3D plot:
+  
+- Expected optimal tilt angle: 37.5°
+- Expected optimal aspect ratio: 1.0
+- Expected Maximum Energy Output: 1965.9
+
