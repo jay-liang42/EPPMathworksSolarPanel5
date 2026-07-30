@@ -4,7 +4,7 @@
 
 This project will find the tilt angle and aspect ratio that maximize the energy output for a solar panel with a fixed area of 2 m².
 
-The total energy output E(,r) is modeled as:
+The total energy output E(\theta,r) is modeled as:
 $$E(\theta, r) = A \cdot \eta(\theta) \cdot sunIntensity(\theta) \cdot f(r)$$
 
 where
