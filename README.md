@@ -29,6 +29,7 @@ The program displays the numerical value for optimal tilt angle, optimal aspect 
 
 - Expected 3D plot:
 <img src="https://github.com/jay-liang42/EPPMathworksSolarPanel5/blob/de60f5172b3d1f45f6634a300c4d5bc35872d372/expected_3D_plot.png"  width=500 />
+
 - Expected optimal tilt angle: 37.5°
 - Expected optimal aspect ratio: 1.0
 - Expected Maximum Energy Output: 1965.9
