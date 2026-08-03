@@ -17,7 +17,7 @@ where
 
 ## Setup Instructions
 
-- Download the MATLAB live script from the repository.
+- Download the MATLAB live script(**SolarPanel.mlx**) from the repository.
 - Download the Optimization Toolbox from MATLAB. It is required to run some of the commands in the script.
 - Open and run the live script in MATLAB. The results will appear after the script is done running.
 
